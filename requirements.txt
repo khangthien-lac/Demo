@@ -1,4 +1,4 @@
 scikit-learn
-opencv
+cv2
 mediapipe
 tempfile
